@@ -1,11 +1,11 @@
-# Révision SSUAP
+# Révision SSUAP · SDIS 78
 
-Application de révision en QCM du référentiel secours d'urgence aux personnes : les « Références techniques nationales — Premiers secours en équipe (PSE) » publiées par la DGSCGC (juillet 2026) et leur recueil de logigrammes (septembre 2026), du niveau équipier au niveau chef d'agrès.
+Application de révision en QCM du guide SSUAP 2025 dans sa version SDIS 78 (théorie et fiches techniques), du niveau équipier au niveau chef d'agrès.
 
-- Questions rédigées puis vérifiées d'après les PDF officiels (site de la Sécurité civile) : chaque correction cite le passage exact des RTN, avec la fiche et la page, et indique si la fiche relève du PSE1 ou du PSE2.
-- Fiches de cours par thème, révision espacée, examen blanc chronométré, points faibles, recherche, flashcards.
-- La progression est enregistrée dans le navigateur de chaque utilisateur (aucune donnée envoyée).
+- Accès réservé aux sapeurs-pompiers du SDIS 78 : le contenu est chiffré dans la page (AES-256, clé dérivée du mot de passe) et ne s'affiche qu'avec le mot de passe.
+- Questions et fiches de cours rédigées avec nos mots, sans extrait du guide ; chaque correction indique la section ou la fiche technique à relire.
+- Révision espacée, examen blanc chronométré, points faibles, recherche, flashcards. La progression reste dans le navigateur de chaque utilisateur.
 
-Support de révision non officiel : les consignes de votre SDIS priment toujours.
+Support de révision personnel et non officiel : l'application GFO et les consignes du SDIS 78 font toujours foi.
 
 Le site est un simple fichier `index.html`, publié avec GitHub Pages.
